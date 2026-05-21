@@ -112,7 +112,7 @@ AI Product Teams  ·  Small Businesses  ·  Freelance & Contract  ·  Remote Tea
 ---
 
 <div align="center">
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fullstackwithai&show_icons=true&theme=github_dark&hide_border=true)
 ### 🟢 Currently Building
 
 *Premium full-stack web products with AI-assisted workflows, strong front-end quality,*
